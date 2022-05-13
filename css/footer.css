@@ -1,0 +1,42 @@
+.footer__content{
+    background-color: #595959;
+    padding: 35px 0 40px;
+}
+.footer__info{
+    display: flex;
+    justify-content: space-between;
+}
+.footer__btn{
+    width: 288px;
+}
+.footer__items{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    
+}
+.footer__phone{
+    padding-left: 0;
+}
+.footer__email{
+    padding-left: 0;
+}
+.footer__titel{
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.footer__text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 0.1px;
+    color: #d3d3d3;
+}
+.footer__box{
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+}
